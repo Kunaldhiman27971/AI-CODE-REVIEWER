@@ -2,7 +2,7 @@
 
 name:Python application
 
-on:
+events:
   push:
     branches: [ main ]
 
